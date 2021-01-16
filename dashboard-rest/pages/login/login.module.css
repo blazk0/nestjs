@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card {
+  width: 550px;
+}
+
+.inputBtn {
+  width: 100%;
+}
+
+.icon {
+  color: grey;
+  margin-right: 10px;
+}
+
+.errorMsg {
+  text-align: center;
+  color: red;
+}
